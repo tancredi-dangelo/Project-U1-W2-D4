@@ -231,5 +231,4 @@ const matrixGenerator = function(x,y) {
     return matrix
 }
 
-
 console.log(matrixGenerator(4,4))
